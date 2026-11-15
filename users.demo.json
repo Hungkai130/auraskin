@@ -1,0 +1,23 @@
+[
+  {
+    "id": "usr_demo_001",
+    "fullName": "Tài khoản Demo 1",
+    "email": "demo1@auraskin.vn",
+    "password": "demo123",
+    "createdAt": "2026-11-01T00:00:00+00:00"
+  },
+  {
+    "id": "usr_demo_002",
+    "fullName": "Tài khoản Demo 2",
+    "email": "demo2@auraskin.vn",
+    "password": "demo456",
+    "createdAt": "2026-11-01T00:00:00+00:00"
+  },
+  {
+    "id": "usr_demo_003",
+    "fullName": "Giảng viên Demo",
+    "email": "gv@auraskin.vn",
+    "password": "gv12345",
+    "createdAt": "2026-11-01T00:00:00+00:00"
+  }
+]
