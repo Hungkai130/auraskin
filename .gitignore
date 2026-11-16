@@ -42,3 +42,8 @@ desktop.ini
 *.zip
 *.rar
 *.7z
+
+# 8. FILE CHẠY CỤC BỘ & FILE MẪU
+run.bat
+start.bat
+.env.example
